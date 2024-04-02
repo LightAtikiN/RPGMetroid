@@ -318,9 +318,9 @@
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.0.3\Editor\PlasticSCM\Views\CreateWorkspace\DrawCreateWorkspaceView.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.0.3\Editor\PlasticSCM\DrawGuiModeSwitcher.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.0.3\Editor\PlasticSCM\CheckWorkspaceTreeNodeStatus.cs" />
-    <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.0.3\Editor\PlasticSCM\Views\Changesets\ChangesetsListHeaderState.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.0.3\Editor\PlasticSCM\ViewSwitcher.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.0.3\Editor\PlasticSCM\UI\DrawActionButton.cs" />
+    <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.0.3\Editor\PlasticSCM\Views\Changesets\ChangesetsListHeaderState.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.0.3\Editor\PlasticSCM\UI\EditorWindowFocus.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.0.3\Editor\PlasticSCM\UI\ShowWindow.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.0.3\Editor\PlasticSCM\UI\CooldownWindowDelayer.cs" />
